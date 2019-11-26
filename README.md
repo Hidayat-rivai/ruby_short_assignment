@@ -1,1 +1,2 @@
-# ruby_short_assignment
+# Short Assignment
+Ruby is supporting shor assignment operator
